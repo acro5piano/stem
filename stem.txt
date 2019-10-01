@@ -55,7 +55,7 @@ A.4.2/3.0: apadoline (74), asimadoline (74), befiradol  (99), bradolineom     (4
 (c)             A.4.1.0: dimepheptanol (5)
 INN – the use of stems
 52
- -adom           analgesics, tifluadom derivatives
+-adom           analgesics, tifluadom derivatives
  A.4.3.0              H C         O
                        3    H
                         N       N
@@ -64,7 +64,7 @@ INN – the use of stems
                              F
  (a)             lufuradom (50), tifluadom (48)
                                                                                               USAN
- -afenone        antiarrhythmics, propafenone derivatives
+-afenone        antiarrhythmics, propafenone derivatives
  H.2.0.0                   H    OH
                  H C       N
                    3
@@ -73,13 +73,13 @@ INN – the use of stems
  (a)             alprafenone (62), berlafenone (63), diprafenone (48), etafenone (19),
                  propafenone (29)
                                                                                               USAN
- -afil           inhibitors of phosphodiesterase PDE5 with vasodilator action
+-afil           inhibitors of phosphodiesterase PDE5 with vasodilator action
  F.2.0.0         (USAN: PDE5 inhibitors)
  (a)             avanafil (92), beminafil (90), dasantafil (91), gisadenafil  (101), lodenafil
                  carbonate (94), mirodenafil (95), sildenafil (75), tadalafil (85), udenafil (93),
                  vardenafil (82)
                                                                                               USAN
- -aj-            antiarrhythmics, ajmaline derivatives
+-aj-            antiarrhythmics, ajmaline derivatives
  H.2.0.0
                      H
                   HO       H     OH
@@ -268,7 +268,7 @@ I.2.1.0        (USAN: anticoagulants (dicoumarol type))
 INN – the use of stems
 58
                                                                                                USAN
- -arone
+-arone
                  (USAN: antiarrhythmics)
                  amiodarone (16) (antiarrhythmic),  benzarone (13), benzbromarone
                  (13) (uricosuric), benziodarone (11), brinazarone (64) (calcium channel
@@ -277,7 +277,7 @@ INN – the use of stems
                  etabenzarone (17), fantofarone (65) (calcium channel blocker), furidarone
                  (19), inicarone (27), mecinarone (30), pyridarone (16), rilozarone (58)
                                                                                                USAN
- -arotene        arotinoid derivatives
+-arotene        arotinoid derivatives
  P.1.0.0         (USAN: -arot-: arotinoids, and -arotene: arotinoid derivatives)
  (a)             adarotene (100), amsilarotene  (98), betacarotene (38), bexarotene (80),
                  etarotene (64), linarotene (65), mofarotene (70), palovarotene (99),
@@ -299,11 +299,11 @@ INN – the use of stems
                  artemisone (95), artemotil (80), artenimol (81), arterolane (97), artesunate
                  (61)
                                                                                                USAN
- -ase enzymes
+-ase enzymes
  W.0.0.0         For more details, please refer to the INN f“   or biological and biotechnological
                  substances, a review”a, vailable on the WHO INN Programme websithttp://e:
                  www.who.int/medicines/services/inn/en/
- -diplase        two plasminogen activators combined with another enzyme
+-diplase        two plasminogen activators combined with another enzyme
  (a)             amediplase (79)
                                                                                  INN – the use of stems
                                                                                                                59
@@ -711,7 +711,7 @@ E.0.0.0
  (c)              amolanone (6), benzyl alcohol (l), cryofluorane (6), diperodon (l), dyclonine
                   (6), midamaline (6)
                                                                                                     BAN
- -cain- (x)       Class I antiarrhythmics, procainamide and lidoc derivaineatives
+-cain- (x)       Class I antiarrhythmics, procainamide and lidoc derivaineatives
  H.2.0.0          (BAN: antifibrillants with local anaesthetic activity)
 
                                             CH                 H C       H C
@@ -756,21 +756,21 @@ INN – the use of stems
  (b)             calcitonin (31) (polypeptide)
  (c)             dihydrotachysterol (1)
                                                                                               USAN
- -capone         catechol-O-methyltransferase (COMT) inhibitors
+-capone         catechol-O-methyltransferase (COMT) inhibitors
                  entacapone (65), nebicapone (96), neluxicapone (119), nitecapone (62),
                  opicapone (103), tolcapone (66)
                                                                                               USAN
- -carbef         antibiotics, carbacephem derivatives
+-carbef         antibiotics, carbacephem derivatives
  S.6.1.0
  (a)             loracarbef (60)
- -carnil         see -azenil
- -castat         see -stat
+-carnil         see -azenil
+-castat         see -stat
                                                                                               USAN
- -catib          cathepsin inhibitors
+-catib          cathepsin inhibitors
  M.0.0.0
  (a)             balicatib (92), dutacatib (94), odanacatib (98), petesicatib (117), relacatib
                  (95)
- -cavir          see vir
+-cavir          see vir
                                                                                           BAN, USAN
  cef- (x)        antibiotics, cefalosporanic acid derivatives
  S.6.1.0         (USAN: cephalosporins)
@@ -822,12 +822,12 @@ U.4.0.0         [cel-ato in Spanish]
 (a)             cellaburate (23), cellacefate (18)
 INN – the use of stems
 74
- -cellose        cellulose ether derivatives
+-cellose        cellulose ether derivatives
  U.4.0.0         [-celosa in Spanish]
  (a) -
  (c)             carmellose (45), croscarmellose (48), ethylcellulose (80), hyetellose (80),
                  hymetellose (80), hyprolose (80), hypromellose (18), methylcellulose (4)
- -cel            substances for cell therapies
+-cel            substances for cell therapies
                  For more details, please refer to the INN f“   or biological and biotechnological
                  substances, a review”a, vailable on the WHO INN Programme websithttp://e:
                  www.who.int/medicines/services/inn/en/
@@ -840,7 +840,7 @@ INN – the use of stems
                  (115), tabelecleucel (117), tisagenlecleucel (117), tonogenconcel (115),
                  vadacabtagene leraleucel (117), vandefitemcel (115)
                                                                                                USAN
- -cept           Receptor molecules or membrane ligands, native, modified or
+-cept           Receptor molecules or membrane ligands, native, modified or
                  synthetic
  S.7.0.0
  (a) -ba- B-cell activating factor receptors
@@ -1635,7 +1635,7 @@ INN – the use of stems
                   crufomate (16), uredofos (37)
                   anthelminthic:
                   imcarbofos (44)
- -fos- or         various pharmacological categories belonging to fos (other than
+-fos- or         various pharmacological categories belonging to fos (other than
                   those above):
  fos-
   -fos-
@@ -1663,7 +1663,7 @@ INN – the use of stems
                   fosphenytoin (62), fospirate (21), fospropofol (100), fosquidone (64),
                   fosravuconazone (110), fostamatinib (100), fostedil (51), fostriecin (55),
                   fosveset (83)
- -fovir           see vir
+-fovir           see vir
                                                                                    INN – the use of stems
                                                                                                                   97
                                                                         USAN
@@ -1817,14 +1817,14 @@ Q.2.2.0         (USAN: -gest-: progestins)
                clometerone (15) (antiestrogen), dimepregnen (24) (antiestrogen)
                                                                          INN – the use of stems
                                                                                                      101
- -gestr-          see estr
+-gestr-          see estr
                                                                                                 USAN
- -giline          MAO-inhibitors type B
+-giline          MAO-inhibitors type B
  C.3.1.0
  (a)              adarigiline (117),clorgiline (23), mofegiline (69), paryline (13), rg    asagiline
                   (70), selegiline (39), sembr   agiline (111)
                                                                                                 USAN
- -gillin          antibiotics produced bAspy  ergillus strains
+-gillin          antibiotics produced bAspy  ergillus strains
  S.6.0.0
  (a)              fumagillin (1), mitogillin (17)
  (c)              mitosper (24), nifungin (24)
@@ -2716,7 +2716,7 @@ INN – the use of stems
                   group), nifurmerone (16), pemerid (25), suxemerid (25) (antitussive)
  (c)              hydrargaphen (10)
                                                                                                  USAN
- -mer polymers
+-mer polymers
  (a)              amilomer (33), azoximer bromide (97), berdazimer sodium (117), bixalomer
                   (103), cadexomer (60), carbetimer (50), carbomer (21), crilanomer
                   (53), davamotecan pegadexamer (117), demplatin pegralumer (117),
@@ -2727,16 +2727,16 @@ INN – the use of stems
                   talinexomer (114), tolevamer (88),  zinostatin stimalamer (74)
  (b)              astodrimer (110), succimer (42)
                                                                                                  USAN
- -mesine          sigma receptor ligands
+-mesine          sigma receptor ligands
                   cutamesine (100), igmesine (68), panamesine (73), siramesine (81)
                                                                                                  USAN
- -mestane    aromatase inhibitors
+-mestane    aromatase inhibitors
  L.0.0.0          (USAN: antineoplastics, aromatase inhibitors)
  /Q.2.1.0
                   atamestane (54), exemestane (65), formestane (66), minamestane (64),
                   plomestane (66)
                                                                                            BAN; USAN
- -metacin (x)  anti-inflammatory, indometacin derivatives
+-metacin (x)  anti-inflammatory, indometacin derivatives
  A.4.2.0          (BAN: anti-inflammatory substances of the indomethacin group)
                   (USAN: -metacin: anti-inflammatory substances (indomethacin type))
                                 O
@@ -3182,7 +3182,7 @@ B.2.0.0      (USAN: -orphan: narcotic antagonists/agonists (morphinan derivative
                         O
                  carbadox (19), ciadox (44), cinoquidox (40), drazidox (24), mequidox (19),
                  olaquindox (31), temodox (27)
- -pirox  antimycotics, pyridone derivativ:es USAN
+-pirox  antimycotics, pyridone derivativ:es USAN
                    H
                    N    O
                  ciclopirox (26), metipirox (26), rilopirox (56)
@@ -3259,12 +3259,12 @@ E.5.1.0         (USAN: -oxan: α-adrenoreceptor antagonists; benzodioxane deriva
                   eltoprazine (57), lecozotan (93), lurtotecan (50), osemozotan (87),
                   quincarbate (31), silibinin (38), sulamserod (82)
                                                                                                   USAN
- -oxanide         see -anide
+-oxanide         see -anide
                                                                                                   USAN
- -oxef            see cef-
- -oxepin          see -pine
+-oxef            see cef-
+-oxepin          see -pine
                                                                                                   USAN
- -oxetine         serotonin and/or norepinephrine reuptake inhibitors, fluoxetine
+-oxetine         serotonin and/or norepinephrine reuptake inhibitors, fluoxetine
                   derivatives
                   (USAN: antidepressants (fluoxetine type))
  C.3.0.0
@@ -3278,19 +3278,19 @@ E.5.1.0         (USAN: -oxan: α-adrenoreceptor antagonists; benzodioxane deriva
                   fluoxetine (34), ifoxetine (54), litoxetine (64), nisoxetine (34), omiloxetine
                   (76), paroxetine (38), reboxetine (54), seproxetine (66), tedatioxetine (107),
                   vortioxetine (107)
- -oxicam          see -icam
- -oxifene         see -ifene
- -oxopine         see -pine
+-oxicam          see -icam
+-oxifene         see -ifene
+-oxopine         see -pine
 INN – the use of stems
 140
                                                                                              BAN; USAN
- -pafant           platelet-activating factor antagonists
+-pafant           platelet-activating factor antagonists
  I.2.1.0
  (a)               apafant (60), bepafant (60), dacopafant (63), foropafant (75), israpafant
                    (76), lexipafant (70), minopafant (80), modipafant (65), nupafant (70),
                    rocepafant (71), setipafant (72), tulopafant (64)
                                                                                                    USAN
- -pamide           diuretics, sulfamoylbenzoic acid derivatives
+-pamide           diuretics, sulfamoylbenzoic acid derivatives
                    (could be sulfamoylbenzamide)
  N.1.2.0           (USAN: diuretics (sulfamoylbenzoic acid derivatives))
                       CO H
@@ -3306,7 +3306,7 @@ INN – the use of stems
  (c)               bumetanide (24), chlortalidone (12), clorexolone (15), furosemide (14),
                    sulclamide (15), tiamizide (16)
                                                                                                    USAN
- -pamil            calcium channel blockers, verapamil derivatives
+-pamil            calcium channel blockers, verapamil derivatives
  F.2.1.0           (USAN: coronary vasodilators (verapamil type))
                    H CO        H C              CN
                     3           3  N
@@ -3497,11 +3497,11 @@ I.3.0.0       (USAN: erythropoietins)
 INN – the use of stems
 146
                      +   +
- -poride Na/H antiport inhibitor
+-poride Na/H antiport inhibitor
                   amiloride (18), cariporide (74), eniporide (79), rimeporide (92), sabiporide
                   (84), zoniporide (85)
                                                                                            BAN, USAN
- -pramine         substances of the imipramine group
+-pramine         substances of the imipramine group
  C.3.2.0          (USAN: antidepressants (imipramine type))
 
                           N
@@ -3519,11 +3519,11 @@ INN – the use of stems
  (c)              unsaturated dibenzazepine:
                   carbamazepine (15), homopipramol (20), opipramol (15)
                                                                                                  USAN
- -prazan          proton pump inhibitors, not dependent on acid activation
+-prazan          proton pump inhibitors, not dependent on acid activation
                   linaprazan (92), revaprazan (91), soraprazan (88), tegoprazan (113),
                   vonoprazan (106)
                                                                                                  USAN
- -prazole         antiulcer, benzimidazole derivatives
+-prazole         antiulcer, benzimidazole derivatives
  J.0.0.0          (USAN: antiulcer agents (benzimidazole derivatives))
                           H
                           N
@@ -3607,15 +3607,15 @@ M.4.1.0       bolone (see bol, anabolic steroids): formebolone (31), mesabolone 
                                                                   INN – the use of stems
                                                                                            149
                                                                                                  USAN
- -pressin         vasoconstrictors, vasopressin derivatives
+-pressin         vasoconstrictors, vasopressin derivatives
  Q.1.2.0          H Cys Tyr Phe Gln Asn Cys Pro Arg Gly NH
                                                                  2
  (a)              argipressin (13), desmopressin (33), felypressin (13), lypressin (13),
                   ornipressin (22), selepressin (105), terlipressin (46), vasopressin injection
                   (16)
- -previr          see vir
+-previr          see vir
                                                                                            BAN; USAN
- -pride           sulpiride derivatives
+-pride           sulpiride derivatives
  C.0.0.0
  J.1.0.0
                      O   O       O
@@ -4512,23 +4512,23 @@ F.2.1.0                             3
                                                                          USAN
 -tide        peptides and glycopeptides (for special groups of peptides see
           -actide, -pressin, -relin, -tocin)
- -glutide  glucagon-like Peptide (GLP) analogues                         USAN
+-glutide  glucagon-like Peptide (GLP) analogues                         USAN
           albiglutide (97), apraglutide (118), beinaglutide (117), dulaglutide (103),
           elsiglutide (104), glepaglutide (116), liraglutide (87), semaglutide (101),
           taspoglutide (99), teduglutide (90)
- -motide  immunological agents for active immunization
+-motide  immunological agents for active immunization
           abecomotide (109), adegramotide (115), alicdamotide (109), amilomotide
           (105), asudemotide (107), disomotide (94), elpamotide (103), graunimotide
           (113), latromotide (107), nelatimotide (115), ovemotide (94), pradimotide
           (107), sultimotide alfa (117), tanurmotide (109), tecemotide (108),
           tertomotide (98), tiplimotide (82), trempamotide (107), zastumotide (110)
- -reotide  somatostatin receptor agonists/antagonists
+-reotide  somatostatin receptor agonists/antagonists
           depreotide (80), edotreotide (84), ilatreotide (68), lanreotide (64), lutetium
            177
           (  Lu) oxodotreotide (116), octreotide (52), pasireotide (90), pentetreotide
           (66), satoreotide (115), satoreotide trizoxetan (114), vapreotide (62),
           veldoreotide (117)
- -ritide  natriuretic peptides
+-ritide  natriuretic peptides
           anaritide (57), carperitide (65), cenderitide (105), nesiritide (80), ularitide
           (69) vosoritide (112)
  various:
@@ -4734,8 +4734,8 @@ C.2.0.0
 tril/trilat      endopeptidase inhibitors
 H.3.0.0
                  candoxatril (62), candoxatrilat (62), sacubitril (109), sacubitrilat (113)
- -dotril         dexecadotril (73), ecadotril (68), fasidotril (74), racecadotril (73)
- -lutril         daglutril (90)
+-dotril         dexecadotril (73), ecadotril (68), fasidotril (74), racecadotril (73)
+-lutril         daglutril (90)
      -patril/-patrilat    gemopatrilat (84), ilepatril (95), omapatrilat (78), sampatrilat (74)
                                                                                INN – the use of stems
                                                                                                              179
@@ -4919,47 +4919,47 @@ S.5.3.0         (USAN: -vir; -vir; or vir-: antivirals)
 -gosivir        glucoside inhibitors: celgosivir (77)
 INN – the use of stems
 184
- -navir           HIV protease inhibitors: amprenavir (79), atazanavir (88), brecanavir (94),
+-navir           HIV protease inhibitors: amprenavir (79), atazanavir (88), brecanavir (94),
                   darunavir (88), droxinavir (74), fosamprenavir (83), indinavir (74), lasinavir
                   (76), lopinavir (80), mozenavir (84), nelfinavir (76), palinavir (74), ritonavir
                   (74), saquinavir (69), telinavir (73), tipranavir (80)
- -previr          Hepatitis Virus C (HVC) protease inhibit asunaprors:      evir (105), boceprevir
+-previr          Hepatitis Virus C (HVC) protease inhibit asunaprors:      evir (105), boceprevir
                   (97), ciluprevir (90), danoprevir (102), deldeprevir (110), faldaprevir (106),
                   furaprevir (111), glecaprevir (114), grazoprevir (111), narlaprevir (102),
                   paritaprevir (111), simaprevir (105), sovaprevir (106), telaprevir (94),
                   vaniprevir (103), vedroprevir (112), voxilaprevir (113)
- -tegravir        HIV integrase inhibitors: bictegravir (113), cabotegravir (111), dolutegravir
+-tegravir        HIV integrase inhibitors: bictegravir (113), cabotegravir (111), dolutegravir
                   (105), elvitegravir (97), raltegravir (97)
- -virine          Non-Nucleoside Reverse Transcriptase Inhibitors (NNR caprTI):avirine
+-virine          Non-Nucleoside Reverse Transcriptase Inhibitors (NNR caprTI):avirine
                   (83), dapivirine (86), doravirine (109), elsulfavirine (117), emivirine (82),
                   etravirine (88), fosdevirine (103), lersivirine (101), rilpivirine (82)
- -viroc           CCR5 (Chemokine CC motif receptor 5) receptor antagonists: ancriviroc
+-viroc           CCR5 (Chemokine CC motif receptor 5) receptor antagonists: ancriviroc
                   (92), aplaviroc (94), cenicriviroc (103), maraviroc (94), vicriviroc (94)
- -virsen          see -rsen
- -vi(.)mab        see mab
+-virsen          see -rsen
+-vi(.)mab        see mab
  (b) virginiamycin (18), viridofulvin (16)
  (c)              aranotin (21), arildone (38), avridine (50), didanosine (64), disoxaril (55),
                   dimepranol (42), foscarnet sodium (42), fosfonet sodium (35), ketoxal
                   (22), impacarzine (36), inosine (42), lodenosine (75), metisazone (14),
                   moroxydine (22), pleconaril (77), tilorone (24), xenazoic acid (11)
- -vircept         see -cept
- -virine          see -vir
- -viroc           see -vir
- -virsen          see -rsen
- -vi(.)mab        see -mab
- -vos             see -fos
- -vudine          see -uridine
+-vircept         see -cept
+-virine          see -vir
+-viroc           see -vir
+-virsen          see -rsen
+-vi(.)mab        see -mab
+-vos             see -fos
+-vudine          see -uridine
                                                                                  INN – the use of stems
                                                                                                                 185
                                                                                               USAN
- -xaban          blood coagulation factor X inhibitors, antithrombotics
+-xaban          blood coagulation factor X inhibitors, antithrombotics
                                                  A
  (a)             apixaban (93), betrixaban (98), darexaban (104), edoxaban (99), eribaxaban
                  (98), fidexaban (91), letaxaban (104), otamixaban (86), razaxaban (90),
                  rivaroxaban (90)
- -xanox          see -ox/-alox
+-xanox          see -ox/-alox
                                                                                               USAN
- -xetan          chelating agents
+-xetan          chelating agents
                  cabiotraxetan (103), clivatuzumab tetraxetan (113), epitumomab cituxetan
                                                                 177
                  (89), ibritumomab tiuxetan (86), lutetium (Lu) lilotomab satetraxetan
@@ -4967,8 +4967,8 @@ INN – the use of stems
                                 90                                               90
                  (92), yttrium (Y) clivatuzumab tetraxetan (102), yttrium (Y) tacatuzumab
                  tetraxetan (93)
- -yzine          see -izine
- -zafone         alozafone derivatives
+-yzine          see -izine
+-zafone         alozafone derivatives
  C.1.0.0                  CH   O
                             3
                           N         CH
@@ -4979,10 +4979,10 @@ INN – the use of stems
                                  Cl
  (a)             alozafone (40), avizafone (64), ciprazafone (50), dinazafone (46), dulozafone
                  (56), lorzafone (48), oxazafone (45), rilmazafone (55)
- -zepine         see –pine
- -zolast         see -ast
+-zepine         see –pine
+-zolast         see -ast
                                                                                               USAN
- -zolid          oxazolidinone antibacterials
+-zolid          oxazolidinone antibacterials
                  cadazolid (104), contezolid (118), delpazolid (116), eperezolid (76),
                  furazolidone (13), linezolid (76), posizolid (88), radezolid (99), sutezolid
                  (106), tedizolid (104), vinzolidine (46)

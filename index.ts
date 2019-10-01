@@ -4,7 +4,6 @@ fs.readFile('./stem.txt', 'utf8', (_, txt) => {
   const lines = txt.split('\n-')
   const csv = lines.map(line => {
     const { word, descriptions = [], refer = '' } = extract(line.replace(/\n/g, ''))
-    console.log(descriptions)
     return `\n${word},${refer},${descriptions.join(',')}`
   })
   fs.writeFile('./result.csv', csv, 'utf8', err => {
