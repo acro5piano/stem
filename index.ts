@@ -2,8 +2,13 @@ import * as fs from 'fs'
 
 fs.readFile('./stem.txt', 'utf8', (_, txt) => {
   const lines = txt.split('\n-')
-  lines.forEach(line => {
-    console.log(extract(line.replace(/\n/g, '')))
+  const csv = lines.map(line => {
+    const { word, descriptions = [], refer = '' } = extract(line.replace(/\n/g, ''))
+    console.log(descriptions)
+    return `\n${word},${refer},${descriptions.join(',')}`
+  })
+  fs.writeFile('./result.csv', csv, 'utf8', err => {
+    if (err) throw err
   })
 })
 
@@ -39,8 +44,10 @@ function extract(line: string): WordDef {
     .replace(/ +/g, ' ')
     .replace(/\(\d+\)/g, '')
     .replace(/INN.+$/g, '')
+    .replace(/,/g, '/')
     .split(/\([a|b|c]\)/g)
     .map(x => x.replace(/(^ | +$)/g, ''))
+    .filter(x => Boolean(x))
   return {
     word,
     descriptions,
