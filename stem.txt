@@ -1,5 +1,3 @@
-Part IV
-Alphabetical list of stems together with corresponding INN
 -abine          see -arabine, -citabine
                                                                                             USAN
 -ac (x)         anti-inflammatory agents, ibufenac derivatives
@@ -1225,7 +1223,7 @@ F.2.1.0         (BAN: calcium ion channel antagonists)
                                                                             INN – the use of stems
                                                                                                         85
                                                                                            USAN
-- domide        antineoplastics, thalidomide derivatives
+-domide        antineoplastics, thalidomide derivatives
 L.0.0.0
 (a)             avadomide (117), endomide (40), iberdomide (117), lenalidomide
                 (101),mitindomide (70), pomalidomide (97), thalidomide (08)
@@ -4728,7 +4726,7 @@ S.6.2.0
                  (17), levorin (15), mocimycin (28), natamycin (15), nystatin (6), pecilocin
                  (16)
                                                                                              USAN
-- trigine        sodium channel blockers, signal transduction modulators
+-trigine        sodium channel blockers, signal transduction modulators
 C.2.0.0
 (a)              elpetrigine (101), lamotrigine (52), palatrigine (58), vixotrigine (116),
                  raxatrigine (114), sipatrigine (74)
